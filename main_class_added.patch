@@ -1,0 +1,13 @@
+Index: src/main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main.java	(date 1539863989658)
++++ src/main.java	(date 1539863989658)
+@@ -0,0 +1,5 @@
++public class main {
++    public static void print(String[] args) {
++        System.out.println("Hola Mon!");
++    }
++}
